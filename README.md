@@ -2,6 +2,8 @@
 
 A CLI-based vending machine simulator built with TypeScript, Bun, and Drizzle ORM.
 
+https://github.com/user-attachments/assets/118f15bf-878b-4c1c-90ac-c309ae08f151
+
 ## Features
 
 - Browse available products with prices and stock levels
