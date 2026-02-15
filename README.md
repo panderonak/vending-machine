@@ -12,6 +12,8 @@ https://github.com/user-attachments/assets/118f15bf-878b-4c1c-90ac-c309ae08f151
 - Automatic change calculation using Indian Rupee denominations (₹500, ₹200, ₹100, ₹50, ₹20, ₹10, ₹5, ₹2, ₹1)
 - SQLite database for product and inventory management
 
+> For a better understanding of how the calculation of change is determined, refer to this [Change-making problem](https://en.wikipedia.org/wiki/Change-making_problem).
+
 ## Prerequisites
 
 - [Bun](https://bun.sh) v1.3.8 or later
